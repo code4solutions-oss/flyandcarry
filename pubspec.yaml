@@ -1,0 +1,19 @@
+name: flyandcarry
+description: A new Flutter project.
+publish_to: "none"
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/logo.png
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo.png"
