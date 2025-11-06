@@ -23,7 +23,7 @@ class FlyAndCarryApp extends StatelessWidget {
         body: const Center(
           child: Text(
             'Welcome to Fly & Carry!',
-            style: 'TextStyle(fontSize: 20),
+            style: 'TextStyle(fontSize: 20)',
           ),
         ),
       ),
@@ -33,3 +33,4 @@ class FlyAndCarryApp extends StatelessWidget {
 
 class StatelessWidget {
 }
+
